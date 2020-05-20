@@ -1,0 +1,5 @@
+weight,heart,Freq
+NotOver,Yes,55
+Over,Yes,30
+NotOver,No,65
+Over,No,50
